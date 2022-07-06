@@ -53,9 +53,9 @@ Você pode [acessar o código fonte do projeto](https://github.com/RenanMour4/Pr
 
 <p>Quando baixar a pasta inteira há dois arquivos praticamente iguais, que são: <a href='https://github.com/RenanMour4/Projeto-Bom-Dia/blob/main/bomdia_local.ipynb' target='_blank'>bomdia_local.ipynb</a> e <a href='https://github.com/RenanMour4/Projeto-Bom-Dia/blob/main/bomdia-local-py.py' target='_blank'>bomdia-local-py.py</a>. A unica diferença deles é que são extensões diferentes, a primeira usa a extensão do jupyter e a segunda do python. Fiz isso pois acho o jupyter bem melhor para testar as alterações.</p>
 
-<p>O codigo em si é bem auto explicativo, mas explicando no geral ele primeiro faz a validação da api por meio de um <a href='https://github.com/RenanMour4/Projeto-Bom-Dia/blob/main/api-key/bom-dia.txt' target='_blank'>documento de texto</a> colocado na pasta <a href='https://github.com/RenanMour4/Projeto-Bom-Dia/tree/main/api-key' target='_blank'>api-key</a> que estão todas as credenciais para utiliza-la em ORDEM, as quatro primeiras linhas são destinadas para respectivamente: api-key, api-key-secret, acess-token e o acess-token-secret!!! (isto é muito importante, pois se não tiver em ordem a validação falha). </p>
+<p>O codigo em si é bem auto explicativo, mas explicando no geral ele primeiro faz a validação da api por meio de um <a href='https://github.com/RenanMour4/Projeto-Bom-Dia/blob/main/api-key/bom-dia.txt' target='_blank'>documento de texto</a> colocado na pasta <a href='https://github.com/RenanMour4/Projeto-Bom-Dia/tree/main/api-key' target='_blank'>api-key</a> que estão todas as credenciais para utiliza-la em ORDEM! As quatro primeiras linhas são destinadas para respectivamente: api-key, api-key-secret, acess-token e o acess-token-secret (isto é muito importante, pois se não tiver em ordem a validação falha). </p>
 
-<p>Segundamente eu fiz uma método chamada i(n) que consegue pegar a imagem que está na pasta img e "transforma" ela. o 'n' um numero inteiro</p>
+<p>Segundamente eu fiz uma método chamada i(n) que consegue pegar a imagem que está na pasta img e "transforma" ela. O 'n' um numero inteiro</p>
 
 <p>Terceiramente a método post faz a postagem da imagem que voce escolheu no parametro da método i(n).</p>
 
