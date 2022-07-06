@@ -21,7 +21,7 @@
 ## Descrição do projeto 
 
 <p align="justify">
-  Neste projeto Estou usando a api do twitter para fazer um bot que consegue postar automaticamente uma imagem de bom dia no feed todos os dias as 06:30 da manhã. O meu objetivo com este projeto é aprender sobre APIs, implementar uma IA nele e evoluir o codigo. Neste dia que estou escrevendo este README, ele já consegue postar uma imagem e uma frase pré programada. 
+  Neste projeto Estou usando a api do twitter para fazer um bot que consegue postar automaticamente uma imagem de bom dia no feed todos os dias as 06:30 da manhã. O meu objetivo com este projeto é aprender sobre APIs, implementar uma IA nele e evoluir o codigo. Neste dia que estou escrevendo este README, ele já consegue postar uma imagem e uma frase pré programada. Você pode ver este bot no link: https://twitter.com/Bomdia_TdoDiaKk
 </p>
 
 
