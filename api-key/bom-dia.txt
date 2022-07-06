@@ -1,0 +1,11 @@
+
+
+
+
+=================
+As quatro primeiras linhas são para:
+api-key;
+api-key-secret;
+acess-token;
+acess-token secret;
+Se quiser pode mudar a ordem ou simplismente colocar as credenciais diretamente no codigo. Também se desejar voce pode trocar a ordem e outras coisas neste documento, mas se certifique que o codigo irá abrir e conseguir pegar as credenciais deste documento
