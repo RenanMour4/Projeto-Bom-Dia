@@ -55,13 +55,13 @@ Você pode [acessar o código fonte do projeto](https://github.com/RenanMour4/Pr
 
 <p>O codigo em si é bem auto explicativo, mas explicando no geral ele primeiro faz a validação da api por meio de um <a href='https://github.com/RenanMour4/Projeto-Bom-Dia/blob/main/api-key/bom-dia.txt' target='_blank'>documento de texto</a> colocado na pasta <a href='https://github.com/RenanMour4/Projeto-Bom-Dia/tree/main/api-key' target='_blank'>api-key</a> que estão todas as credenciais para utiliza-la em ORDEM! As quatro primeiras linhas são destinadas para respectivamente: api-key, api-key-secret, acess-token e o acess-token-secret (isto é muito importante, pois se não tiver em ordem a validação falha). </p>
 
-<p>Segundamente eu fiz uma método chamada i(n) que consegue pegar a imagem que está na pasta img e "transforma" ela. O 'n' um numero inteiro</p>
+<p>Segundamente eu fiz um método chamado i(n) que consegue pegar a imagem que está na pasta <a href='https://github.com/RenanMour4/Projeto-Bom-Dia/tree/main/img' target='_blank'>img</a> e retorna o nome, a imagem transformada, um valor True e o tamanho da lista de imagens que a pasta tem. O 'n' um numero inteiro.</p>
 
-<p>Terceiramente a método post faz a postagem da imagem que voce escolheu no parametro da método i(n).</p>
+<p>Terceiramente o método post faz a postagem da imagem que voce escolheu no parametro da método i(n).</p>
 
-<p>Quartamente e finalizando fiz um while infinito que irá quebrar quando não tiver mais imagens para postar na pasta <a href='https://github.com/RenanMour4/Projeto-Bom-Dia/tree/main/img' target='_blank'>IMG</a>.</p>
+<p>Quartamente e finalizando fiz um while infinito que irá quebrar quando não tiver mais imagens para postar na pasta <a href='https://github.com/RenanMour4/Projeto-Bom-Dia/tree/main/img' target='_blank'>img</a>.</p>
 
-<p>OBS: O jeito que eu fiz esta ultima parte do projeto não acredito que seja muito usual, pois usando o time.sleep na ultima parte o programa não consegue parar de maneira usual assim dificultando o processo de testes. Se você quiser modificar esta ultima parte, fique a vontade ;)</p>
+<p>OBS: O jeito que eu fiz esta ultima parte do projeto não acredito que seja muito 'boa', pois usando o time.sleep na ultima parte o programa não consegue parar de maneira usual assim dificultando o processo de testes.Somente consegui pensar nesta solução para que o n (variavel do post) possa mudar e executar corretamente. Se quiser modificar esta ultima parte, ou o projeto inteiro, fique a vontade e entre em contato comigo por favor ;)</p>
 
 
 
