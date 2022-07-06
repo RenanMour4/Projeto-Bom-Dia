@@ -44,11 +44,9 @@
 
 
 <p align="center" width="100%">
+    <a href="https://developer.twitter.com/en" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" alt="Twitter" width="40" height="40"/> </a>
     <a href="https://developer.twitter.com/en" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" alt="Twitter" width="40" height="40"/> </a> 
-    
-    <a href="https://www.python.org" target="_blank"> <img src="https://aws1.discourse-cdn.com/business6/uploads/python1/original/1X/fe459ce92996895410438d8efee327d394e419a0.png" alt="python" width="40" height="40"/> </a> 
-    
-    <a href="https://cloud.google.com" target="_blank"> <img src="https://lirp.cdn-website.com/aa0ef369/dms3rep/multi/opt/google-cloud-icon-400w.png" alt="google" width="40" height="40"/> </a>
+  
 </p>
    
    
@@ -70,7 +68,7 @@ Você pode [acessar o código fonte do projeto](https://github.com/RenanMour4/Pr
 
 <p>Quartamente e finalizando fiz um while infinito que irá quebrar quando não tiver mais imagens para postar na pasta [IMG](https://github.com/RenanMour4/Projeto-Bom-Dia/tree/main/img).</p>
 
-<p>OBS: O jeito que eu fiz esta ultima parte do projeto não acredito que seja muito usual, pois usando o time.sleep na ultima parte o programa não consegue parar de maneira usual assim dificultando o processo de testes. Se você quiser modificar esta ultima parte, fique a vontade ;)</pP
+<p>OBS: O jeito que eu fiz esta ultima parte do projeto não acredito que seja muito usual, pois usando o time.sleep na ultima parte o programa não consegue parar de maneira usual assim dificultando o processo de testes. Se você quiser modificar esta ultima parte, fique a vontade ;)</p>
 
 
 
