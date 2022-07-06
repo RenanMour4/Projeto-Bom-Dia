@@ -36,14 +36,11 @@
                 flex-direction: row;
                 flex-wrap: wrap;
                 justify-content: center;">
-   <a href="https://www.python.org" target="_blank" style="padding-left:1%;
-                          padding-right: 1%;"> <img src="https://aws1.discourse-cdn.com/business6/uploads/python1/original/1X/fe459ce92996895410438d8efee327d394e419a0.png" alt="python" width="40" height="40"/> </a> 
+   <a href="https://www.python.org" target="_blank"> <img src="https://aws1.discourse-cdn.com/business6/uploads/python1/original/1X/fe459ce92996895410438d8efee327d394e419a0.png" alt="python" width="40" height="40"/> </a> 
 
-  <a href="https://developer.twitter.com/en" target="_blank" style="padding-left:1%;
-                          padding-right: 1%;"> <img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" alt="Twitter" width="40" height="40"/> </a> 
+  <a href="https://developer.twitter.com/en" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" alt="Twitter" width="40" height="40"/> </a> 
   
-  <a href="https://cloud.google.com" target="_blank" style="padding-left:1%;
-                          padding-right: 1%;"> <img src="https://lirp.cdn-website.com/aa0ef369/dms3rep/multi/opt/google-cloud-icon-400w.png" alt="google" width="40" height="40"/> </a>
+  <a href="https://cloud.google.com" target="_blank"> <img src="https://lirp.cdn-website.com/aa0ef369/dms3rep/multi/opt/google-cloud-icon-400w.png" alt="google" width="40" height="40"/> </a>
 </div>
    
    
