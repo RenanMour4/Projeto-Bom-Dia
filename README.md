@@ -34,7 +34,6 @@
 <div style="align-items: center;
                 display: flex;
                 flex-direction: row;
-                flex-wrap: wrap;
                 justify-content: center;">
    <a href="https://www.python.org" target="_blank"> <img src="https://aws1.discourse-cdn.com/business6/uploads/python1/original/1X/fe459ce92996895410438d8efee327d394e419a0.png" alt="python" width="40" height="40"/> </a> 
 
