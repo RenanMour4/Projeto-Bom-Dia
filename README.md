@@ -47,7 +47,7 @@
 
 ## Acesso ao projeto
 
-Você pode [acessar o código fonte do projeto](https://github.com/camilafernanda/GlicoCare) ou [baixá-lo](https://github.com/camilafernanda/GlicoCare/archive/refs/heads/main.zip).
+Você pode [acessar o código fonte do projeto](https://github.com/RenanMour4/Projeto-Bom-Dia) ou [baixá-lo](https://github.com/camilafernanda/GlicoCare/archive/refs/heads/main.zip).
 
 ## Abrir e rodar o projeto
 
@@ -61,5 +61,5 @@ O `Android Studio` deve executar algumas tasks do *Gradle* para configurar o pro
 
 ## Desenvolvedores
 
-| [<img src="https://avatars.githubusercontent.com/u/37356058?v=4" width=115><br><sub>Camila Fernanda Alves</sub>](https://github.com/camilafernanda) |  [<img src="https://avatars.githubusercontent.com/u/38091359?v=4" width=115><br><sub>Clóvis Ribeiro Júnior</sub>](https://github.com/crovim) |  [<img src="https://avatars.githubusercontent.com/u/37315196?v=4" width=115><br><sub>Guilherme Rossin</sub>](https://github.com/GuilhermeRossin) | [<img src="https://avatars.githubusercontent.com/u/21059035?v=4" width=115><br><sub>Erica Muniz</sub>](https://github.com/Erica08muniz) |
+| [<img src="https://avatars.githubusercontent.com/u/64485870?v=4" width=115><br><sub>Renan Moura</sub>](https://github.com/RenanMour4)
 | :---: | :---: | :---: | :---: 
