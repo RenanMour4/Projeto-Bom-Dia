@@ -41,25 +41,35 @@
   
   <a href="https://cloud.google.com" target="_blank"> <img src="https://lirp.cdn-website.com/aa0ef369/dms3rep/multi/opt/google-cloud-icon-400w.png" alt="google" width="40" height="40"/> </a>
 </div>
+
+
+<p align="center" width="100%">
+    <a href="https://developer.twitter.com/en" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" alt="Twitter" width="40" height="40"/> </a> 
+    
+    <a href="https://www.python.org" target="_blank"> <img src="https://aws1.discourse-cdn.com/business6/uploads/python1/original/1X/fe459ce92996895410438d8efee327d394e419a0.png" alt="python" width="40" height="40"/> </a> 
+    
+    <a href="https://cloud.google.com" target="_blank"> <img src="https://lirp.cdn-website.com/aa0ef369/dms3rep/multi/opt/google-cloud-icon-400w.png" alt="google" width="40" height="40"/> </a>
+</div>
    
    
 ###
 
 ## Acesso ao projeto
 
-Você pode [acessar o código fonte do projeto](https://github.com/RenanMour4/Projeto-Bom-Dia) ou [baixá-lo](https://github.com/camilafernanda/GlicoCare/archive/refs/heads/main.zip).
+Você pode [acessar o código fonte do projeto](https://github.com/RenanMour4/Projeto-Bom-Dia) ou [baixá-lo](https://github.com/RenanMour4/Projeto-Bom-Dia/archive/refs/heads/main.zip).
 
 ## Abrir e rodar o projeto
 
-Após baixar o projeto, você pode abrir com o `Android Studio`. Para isso, na tela de launcher clique em:
+Quando baixar a pasta inteira há dois arquivos praticamente iguais, que são: [bomdia_local.ipynb](https://github.com/RenanMour4/Projeto-Bom-Dia/blob/main/bomdia_local.ipynb) e [bomdia-local-py.py](https://github.com/RenanMour4/Projeto-Bom-Dia/blob/main/bomdia-local-py.py). A unica diferença deles é que são extensões diferentes, a primeira usa a extensão do jupyter e a segunda do python. Fiz isso pois acho o jupyter bem melhor para testar as alterações.
+O codigo em si é bem auto explicativo, mas explicando no geral ele primeiro faz a validação da api por meio de um [documento de texto](https://github.com/RenanMour4/Projeto-Bom-Dia/blob/main/api-key/bom-dia.txt) colocado na pasta [api-key](https://github.com/RenanMour4/Projeto-Bom-Dia/tree/main/api-key) que estão todas as credenciais para utiliza-la em ORDEM, as quatro primeiras linhas são destinadas para respectivamente: api-key, api-key-secret, acess-token e o acess-token-secret!!! (isto é muito importante, pois se não tiver em ordem a validação falha). 
+Segundamente eu fiz uma função chamada i que consegue pegar a imagem que está na pasta img e "transforma" ela. 
+Terceiramente a Função post faz a postagem da imagem que voce escolheu no parametro da função i. 
+Quartamente e finalizando fiz um while infinito que irá quebrar quando não tiver mais imagens para postar na pasta [IMG](https://github.com/RenanMour4/Projeto-Bom-Dia/tree/main/img). 
+OBS: O jeito que eu fiz esta ultima parte do projeto não acredito que seja muito usual, pois usando o time.sleep na ultima parte o programa não consegue parar de maneira usual assim dificultando o processo de testes. Se você quiser modificar esta ultima parte, fique a vontade ;)
 
-- `Open an Existing Project` (ou alguma opção similar);
-- Procure o local onde o projeto está e o selecione (Caso o projeto seja baixado via zip, é necessário extraí-lo antes de procurá-lo);
-- Por fim clique em `OK`.
 
-O `Android Studio` deve executar algumas tasks do *Gradle* para configurar o projeto, aguarde até finalizar. Ao finalizar as tasks, você pode executar o App 🏆 
 
 ## Desenvolvedores
 
-| [<img src="https://avatars.githubusercontent.com/u/64485870?v=4" width=115><br><sub>Renan Moura</sub>](https://github.com/RenanMour4)
-| :---: | :---: | :---: | :---: 
+[<img src="https://avatars.githubusercontent.com/u/64485870?v=4" width=115><br><sub>Renan Moura</sub>](https://github.com/RenanMour4)
+
