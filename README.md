@@ -45,7 +45,7 @@
    
 ###
 
-## Acesso ao projeto
+## Detalhes dos arquivos
 
 Você pode [acessar o código fonte do projeto](https://github.com/RenanMour4/Projeto-Bom-Dia) ou [baixá-lo](https://github.com/RenanMour4/Projeto-Bom-Dia/archive/refs/heads/main.zip).
 
