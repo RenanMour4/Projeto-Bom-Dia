@@ -51,15 +51,15 @@ Você pode [acessar o código fonte do projeto](https://github.com/RenanMour4/Pr
 
 ## Abrir e rodar o projeto
 
-<p>Quando baixar a pasta inteira há dois arquivos praticamente iguais, que são: [bomdia_local.ipynb](https://github.com/RenanMour4/Projeto-Bom-Dia/blob/main/bomdia_local.ipynb) e [bomdia-local-py.py](https://github.com/RenanMour4/Projeto-Bom-Dia/blob/main/bomdia-local-py.py). A unica diferença deles é que são extensões diferentes, a primeira usa a extensão do jupyter e a segunda do python. Fiz isso pois acho o jupyter bem melhor para testar as alterações.</p>
+<p>Quando baixar a pasta inteira há dois arquivos praticamente iguais, que são: <a href='https://github.com/RenanMour4/Projeto-Bom-Dia/blob/main/bomdia_local.ipynb' target='_blank'>bomdia_local.ipynb</a> e <a href='https://github.com/RenanMour4/Projeto-Bom-Dia/blob/main/bomdia-local-py.py' target='_blank'>bomdia-local-py.py</a>. A unica diferença deles é que são extensões diferentes, a primeira usa a extensão do jupyter e a segunda do python. Fiz isso pois acho o jupyter bem melhor para testar as alterações.</p>
 
-<p>O codigo em si é bem auto explicativo, mas explicando no geral ele primeiro faz a validação da api por meio de um [documento de texto](https://github.com/RenanMour4/Projeto-Bom-Dia/blob/main/api-key/bom-dia.txt) colocado na pasta [api-key](https://github.com/RenanMour4/Projeto-Bom-Dia/tree/main/api-key) que estão todas as credenciais para utiliza-la em ORDEM, as quatro primeiras linhas são destinadas para respectivamente: api-key, api-key-secret, acess-token e o acess-token-secret!!! (isto é muito importante, pois se não tiver em ordem a validação falha). </p>
+<p>O codigo em si é bem auto explicativo, mas explicando no geral ele primeiro faz a validação da api por meio de um <a href='https://github.com/RenanMour4/Projeto-Bom-Dia/blob/main/api-key/bom-dia.txt' target='_blank'>documento de texto</a> colocado na pasta <a href='https://github.com/RenanMour4/Projeto-Bom-Dia/tree/main/api-key' target='_blank'>api-key</a> que estão todas as credenciais para utiliza-la em ORDEM, as quatro primeiras linhas são destinadas para respectivamente: api-key, api-key-secret, acess-token e o acess-token-secret!!! (isto é muito importante, pois se não tiver em ordem a validação falha). </p>
 
-<p>Segundamente eu fiz uma função chamada i() que consegue pegar a imagem que está na pasta img e "transforma" ela.</p>
+<p>Segundamente eu fiz uma método chamada i(n) que consegue pegar a imagem que está na pasta img e "transforma" ela. o 'n' um numero inteiro</p>
 
-<p>Terceiramente a Função post faz a postagem da imagem que voce escolheu no parametro da função i().</p>
+<p>Terceiramente a método post faz a postagem da imagem que voce escolheu no parametro da método i(n).</p>
 
-<p>Quartamente e finalizando fiz um while infinito que irá quebrar quando não tiver mais imagens para postar na pasta [IMG](https://github.com/RenanMour4/Projeto-Bom-Dia/tree/main/img).</p>
+<p>Quartamente e finalizando fiz um while infinito que irá quebrar quando não tiver mais imagens para postar na pasta <a href='https://github.com/RenanMour4/Projeto-Bom-Dia/tree/main/img' target='_blank'>IMG</a>.</p>
 
 <p>OBS: O jeito que eu fiz esta ultima parte do projeto não acredito que seja muito usual, pois usando o time.sleep na ultima parte o programa não consegue parar de maneira usual assim dificultando o processo de testes. Se você quiser modificar esta ultima parte, fique a vontade ;)</p>
 
